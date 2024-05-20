@@ -1,4 +1,4 @@
-[index.md](https://kaji0428.github.io/githabpagetest/)
+[index.md](https://kaji0428.github.io/githabpagetest/second)
 
 # Blockquotes 引用
 > 引用  
