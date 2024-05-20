@@ -26,16 +26,10 @@ hoge
 | TD1 | TD3 |
 | TD2 | TD4 |
 
-# pre 整形済みテキスト
+# 打ち消し
+打ち消し線を使うには ~~ で囲みます。 ~~打ち消し~~
 
-class Hoge
-def hoge
-print 'hoge'
-end
-end
-
-# Block 段落
-
-段落 1
-
-段落 2
+# code
+```ruby:qiita.rb
+puts 'The best way to log and share programmers knowledge.'
+```
