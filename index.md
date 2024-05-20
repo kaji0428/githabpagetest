@@ -1,5 +1,4 @@
 [second.md](https://kaji0428.github.io/githabpagetest/second)
-
 # 改行されない場合の例
 
 こんにちは
